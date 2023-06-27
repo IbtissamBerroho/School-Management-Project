@@ -1,4 +1,4 @@
 # School-Management-Project
 ## Interface : 
 
-![Alt text](./images/Interface.png)
+![Alt text](./Images/Interface.png)
